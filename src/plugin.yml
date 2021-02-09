@@ -1,0 +1,13 @@
+name: InviteWhiteList
+main: com.mrmatches.invitewhitelist.invitewhitelist
+version: 0.0.1
+authors: [MrMatchesExMark]
+description: Allow players to invite other players to the server
+
+commands:
+    invite:
+        description: invite a new player
+        usage: "/invite"
+    uninvite:
+        description: uninvite a new player
+        usage: "/uninvite"
